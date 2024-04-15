@@ -43,6 +43,19 @@ sidebar:
         - item: Cooking
           link:
 
+    skills: 
+     title: Skills
+     info: 
+        - item: C
+        - item: C++
+        - item: Python
+        - item: Git
+        - item: REST API
+        - item: Linux
+        - item: PHP
+        - item: Java
+        - item: JavaScript
+        
 career-profile:
     title: Career Profile
     summary: |

@@ -46,15 +46,10 @@ sidebar:
     skills: 
      title: Skills
      info: 
-        - item: C
-        - item: C++
-        - item: Python
-        - item: Git
+        - item: C, C++, Python, PHP, Java, JavaScript
         - item: REST API
+        - item: Git, ClearCase
         - item: Linux
-        - item: PHP
-        - item: Java
-        - item: JavaScript
         
 career-profile:
     title: Career Profile

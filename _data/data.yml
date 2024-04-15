@@ -4,39 +4,28 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Pawel Drabik
+    tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: pawel.drabik@hotmail.com
+    phone: +31 617 877 280
+    website: owenek1.github.io #do not add http://
+    linkedin: pawel-drabik-81848364
+    github: owenek1
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Polish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
@@ -57,78 +46,51 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior Software Engineer with 7+ years of experience. Skilled in developing high quality software according to the requirements. 
+      Strong ability to work effectively in a team environment, collaborating with other software engineers, hardware engineers, and product owners (both on-site and remote).
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Embeded Systems
+        university: Eindhoven University of Technology (The Netherlands)
+        time: 2013 - 2016 (3 years)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+        
+      - degree: Erasmus Exchange Student Program
+        university: University of Southern Denmark (Denmark)
+        time: 2011 - 2012 (1 year)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+        
+     - degree: BSc in Automation and robotics
+        university: West Pomeraninan University of Technology (Poland)
+        time: 2009 - 2013 (4 years)
+        details: |
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Software Engineer
+        time: 2020 - Present (4 years)
+        company: ASML, Eindoven (The Netherlands)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Designing and developing embedded software for ASML lithography machines using programming languages such as C/C++ and Python. Collaboration with hardware and functional engineers to integrate software and hardware components.
+          Lead Software Engineer and Scrum Master, with a track record of managing small development teams.
+
+     - role: Software Engineer
+        time: 2020 - Present (4 years)
+        company: ASML, Eindoven (The Netherlands)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Designing and developing embedded software for ASML lithography machines using programming languages such as C/C++ and Python. Collaboration with hardware and functional engineers to integrate software and hardware components.
+          Lead Software Engineer and Scrum Master, with a track record of managing small development teams.
+
+ 
+      - role: Software Engineer
+        time: 2013 - 2016 (3 years)
+        company: Adversitement B.V, Uden (The Netherlands)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           Full Stack software engineer responsible of development web analytics solutions and web application to support clients in accessing the analytics data.
+
+           Technologies: Java, JavaScript, MongoDB, MySQL, Python, Git, REST API, Jenkins
 
 certifications:
       title: Certifications

@@ -47,6 +47,7 @@ career-profile:
     title: Career Profile
     summary: |
       Senior Software Engineer with 7+ years of experience. Skilled in developing high quality software according to the requirements. Strong ability to work effectively in a team environment, collaborating with other software engineers, hardware engineers, and product owners (both on-site and remote).
+
 education:
     title: Education
     info:
@@ -55,15 +56,12 @@ education:
         time: 2013 - 2016 (3 years)
         details: |
         
+        
       - degree: Erasmus Exchange Student Program
         university: University of Southern Denmark (Denmark)
         time: 2011 - 2012 (1 year)
         details: |
         
-     - degree: BSc in Automation and robotics
-        university: West Pomeraninan University of Technology (Poland)
-        time: 2009 - 2013 (4 years)
-        details: |
         
 experiences:
     title: Experiences
@@ -81,15 +79,6 @@ experiences:
         details: |
           Designing and developing embedded software for ASML lithography machines using programming languages such as C/C++ and Python. Collaboration with hardware and functional engineers to integrate software and hardware components.
           Lead Software Engineer and Scrum Master, with a track record of managing small development teams.
-
- 
-      - role: Software Engineer
-        time: 2013 - 2016 (3 years)
-        company: Adversitement B.V, Uden (The Netherlands)
-        details: |
-           Full Stack software engineer responsible of development web analytics solutions and web application to support clients in accessing the analytics data.
-
-           Technologies: Java, JavaScript, MongoDB, MySQL, Python, Git, REST API, Jenkins
 
 certifications:
       title: Certifications

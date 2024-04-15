@@ -2,4 +2,20 @@
 
 {% if skills %}
 
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ skills.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for sikll in siklls.info %}
+    
+      <li>{{ skill.item }}</li>
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+
 {% endif %}

@@ -56,24 +56,15 @@ education:
         time: 2013 - 2016 (3 years)
         details: |
         
-        
       - degree: Erasmus Exchange Student Program
         university: University of Southern Denmark (Denmark)
         time: 2011 - 2012 (1 year)
         details: |
-        
-        
+
 experiences:
     title: Experiences
     info:
       - role: Lead Software Engineer
-        time: 2020 - Present (4 years)
-        company: ASML, Eindoven (The Netherlands)
-        details: |
-          Designing and developing embedded software for ASML lithography machines using programming languages such as C/C++ and Python. Collaboration with hardware and functional engineers to integrate software and hardware components.
-          Lead Software Engineer and Scrum Master, with a track record of managing small development teams.
-
-     - role: Software Engineer
         time: 2020 - Present (4 years)
         company: ASML, Eindoven (The Netherlands)
         details: |

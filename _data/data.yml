@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Software Engineer with 7+ years of experience. Skilled in developing high quality software according to the requirements. Strong ability to work effectively in a team environment, collaborating with other software engineers, hardware engineers, and product owners (both on-site and remote).
+      Senior Software Engineer with 7+ years of experience. Skilled in deeloping high quality software according to the requirements. Strong ability to work effectively in a team environment, collaborating with other software engineers, hardware engineers, and product owners (both on-site and remote). Software enthusia
 
 education:
     title: Education
@@ -102,8 +102,8 @@ experiences:
           - Adaptation of the frontend application for iOS/Android application
           - Configuration of autodeployment to the AWS
       - role: Software Engineer (full stack) / Co-founder
-        time: 2016 - 2017 (1 years)
-        company: Servibe (startup), Eindoven (The Netherlands)
+        time: 2013 - 2016 (3 years)
+        company: Adversitement BV, Unden (The Netherlands)
         details: |
           Full stack software engineer responsible of development web analytics solutions and web application to support clients in accessing the analytics data.
           Technologies: Java, JavaScript, MongoDB, Python, Git, REST API, AWS, Jenkins
@@ -114,27 +114,3 @@ experiences:
           - Design and development of frontend application with Ember JS and JavaScript
           - Design and development of Python scripts to perform offline data analytics on BigData
           - Configuration and setup of development and production environment for web application deployment
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

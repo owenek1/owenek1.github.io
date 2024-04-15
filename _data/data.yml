@@ -49,7 +49,8 @@ sidebar:
         - item: C, C++, Python, PHP, Java, JavaScript
         - item: REST API
         - item: Git, ClearCase
-        - item: Linux
+        - item: Linux, VxWorks
+        - item: Agile, Scrum
         
 career-profile:
     title: Career Profile

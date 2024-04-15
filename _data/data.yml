@@ -49,6 +49,7 @@ sidebar:
         - item: C, C++, Python, PHP, Java, JavaScript
         - item: REST API
         - item: Git, ClearCase
+        - item: MySQL, MongoDB
         - item: Linux, VxWorks
         - item: Agile, Scrum
         
@@ -62,15 +63,15 @@ education:
     info:
       - degree: MSc in Embeded Systems
         university: Eindhoven University of Technology (The Netherlands)
-        time: 2013 - 2016 (3 years)
+        time: 2013 - 2016
         details: |
       - degree: Erasmus Exchange Student Program
         university: University of Southern Denmark (Denmark)
-        time: 2011 - 2012 (1 year)
+        time: 2011 - 2012
         details: |
       - degree: BSc in Automation and Robotics
         university: West Pomeraninan University of Technology
-        time: 2009 - 2013 (4 years)
+        time: 2009 - 2013
         details: |
 experiences:
     title: Experiences
@@ -93,7 +94,7 @@ experiences:
           - Development and optimization of current code written in C and C++ to meet performance requirements for the proprietary hardware platform 
           - Introduction of Google Mock for the current software code 
           - Design and development of the test code for the diagnostic and calibration software in Python
-          - Woring closely with functional and development team to implement software according to the requirements
+          - Working closely with functional and development team to implement software according to the requirements
           - Development and execution of the testplans for the developed software on the real systems 
           - Scrum Master with introduction of Agile methodology for the small development software team
       - role: Software Engineer (full stack) / Co-founder

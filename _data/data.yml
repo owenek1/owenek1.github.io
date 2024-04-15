@@ -55,131 +55,65 @@ education:
         university: Eindhoven University of Technology (The Netherlands)
         time: 2013 - 2016 (3 years)
         details: |
-        
       - degree: Erasmus Exchange Student Program
         university: University of Southern Denmark (Denmark)
         time: 2011 - 2012 (1 year)
         details: |
-
+      - degree: BSc in Automation and Robotics
+        university: West Pomeraninan University of Technology
+        time: 2009 - 2013 (4 years)
+        details: |
 experiences:
     title: Experiences
     info:
-      - role: Lead Software Engineer
+      - role: Seanior Lead Software Engineer
         time: 2020 - Present (4 years)
         company: ASML, Eindoven (The Netherlands)
         details: |
-          Designing and developing embedded software for ASML lithography machines using programming languages such as C/C++ and Python. Collaboration with hardware and functional engineers to integrate software and hardware components.
-          Lead Software Engineer and Scrum Master, with a track record of managing small development teams.
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+          Technologies: Linux, VxWorks, C, C++, Python, Git, ClearCase, Robot Framework, Google Mock, Agile, Scrum
+          - Lead Software Engineer of small software development team
+          - Writing and reviewing desing documentation of the software according to the requirements
+          - Adaptiation of the current software to allow development of the new features
+          - Close collaboration with software architects both on-site and remote to align on the future developments and alignment across the teams
+          - Making crucial decision for the software development, planning and delivery
+      - role: Software Engineer
+        time: 2017 - 2020 (3 years)
+        company: ASML, Eindoven (The Netherlands)
+        details: |
+          Technologies: Linux, VxWorks, C, C++, Python, Git, ClearCase, Robot framework, Goole Mock, Agile, Scrum
+          - Development and optimization of current code written in C and C++ to meet performance requirements for the proprietary hardware platform 
+          - Introduction of Google Mock for the current software code 
+          - Design and development of the test code for the diagnostic and calibration software in Python
+          - Woring closely with functional and development team to implement software according to the requirements
+          - Development and execution of the testplans for the developed software on the real systems 
+          - Scrum Master with introduction of Agile methodology for the small development software team
+      - role: Software Engineer (full stack) / Co-founder
+        time: 2016 - 2017 (1 years)
+        company: Servibe (startup), Eindoven (The Netherlands)
+        details: |
+          Design and development of web application with backend and frontend for booking service providers (electricians, plumbers etc.)
+          Technologies: Java, JavaScript, MongoDB, Python, Git, REST API, AWS, Jenkins
+          - Writing requirements for the application and choosing the technology stack to support its reliability and scalability in the future
+          - Development of complete REST API with usage of Java PlayFramework
+          - Development of frontend application with Ember JS and JavaScript
+          - Design and implementation of database with MongoDB, with usage of geolocation data feature to optimize search engine
+          - Design and implementation of algorithms for scheduling, availability check of the service providers
+          - Introduction of Jenkins server for CI/CD preparation with execution of test automation
+          - Adaptation of the frontend application for iOS/Android application
+          - Configuration of autodeployment to the AWS
+      - role: Software Engineer (full stack) / Co-founder
+        time: 2016 - 2017 (1 years)
+        company: Servibe (startup), Eindoven (The Netherlands)
+        details: |
+          Full stack software engineer responsible of development web analytics solutions and web application to support clients in accessing the analytics data.
+          Technologies: Java, JavaScript, MongoDB, Python, Git, REST API, AWS, Jenkins
+          - Responsible for design and implementation analytics and optimization software to measure, analyze and enchance online efficiency of the clients
+          - Identified and specified technical solutions aligning with customer's requirements, architecture and infrastructure, including MySQL databases with big data
+          - MySQL database administration with optimization of SQL queries to ensure smooth operation
+          - Design and development of REST API with usage of Java PlayFramework
+          - Design and development of frontend application with Ember JS and JavaScript
+          - Design and development of Python scripts to perform offline data analytics on BigData
+          - Configuration and setup of development and production environment for web application deployment
 skills:
     title: Skills &amp; Proficiency
 
